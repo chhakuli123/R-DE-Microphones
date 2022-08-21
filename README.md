@@ -1,25 +1,50 @@
-# RODE-Microphones | Rode-Clone ![Tailwind Project](https://img.shields.io/badge/Tailwind%20-project-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow) ![lco](https://img.shields.io/badge/iNeuron-LCO-green)
+# RODE-Microphones | Rode-Clone
+ ![Tailwind Project](https://img.shields.io/badge/Tailwind%20-project-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow) ![lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
-### By Chhakuli
+
+# Hi Everyone!! 👋
 
 
+## Project Name: Rode.com Clone by Tailwind CSS
+---
+
+### Project Descripttion
+
+> **This is a large project where I have made rode.com home page clone by using Tailwind CSS and this project is mobile responsive also, Hope you like my project**
+
+---
 ## 🔗Live Link -: [Rode-Clone](https://rode-microphones-clone.netlify.app/)
- 
 
 ---
+
+
+## 🛠 Technologies used
+
+> HTML
+
+> Tailwind CSS
+
+---
+
+## What I have learnt in this project
+
+> As this is my third project on Tailwind CSS, I learned how to use the classes
+
+> Learned about the responsiveness
+
+> Got good understanding on responsiveness, breakpoints and many other classes
+
+---
+
+## Time taken to Finish this project
+
+> I have taken 10 hours to understand and complete this project, this is my third project on Tailwind.
+
+
+
+## Project Screenshot
+
 ![image](./Screenshot%20(60).png)
-
-
----
-
-
-## What I learned from this Project
-
--i learned tailwind in more dept by this project .
-- I learned how we can use just one one freamwork to create a beutiful website.
-- Learned how it easy to make it responsive with framework.
-## This project took around 10 hours to complete.
-
 
 ---
 
