@@ -45,10 +45,10 @@
 
 ## Project Screenshot
 
-![image](./Screenshot%20(60).png)
+![image](./images//Screenshot%20(60).png)
 
 ---
 
 
 
-![image](./photo_2022-08-21_15-10-24.jpg)
+![image](./images//photo_2022-08-21_15-10-24.jpg)
